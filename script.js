@@ -1,6 +1,3 @@
-
-
-
 $(document).ready(function(){
   $("#search").on("submit",function(e){
     e.preventDefault();
